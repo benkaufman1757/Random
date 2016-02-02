@@ -5,6 +5,7 @@ Some of the stuff is unfinished. Will it be finished? I don't know...Made this a
 
 ### Notable Notebooks:
 * Basic Cryptography
+* RSA Algorithm
 * Genetic Algorithm
 * Standard Young Tableau
 * Mersenne Primes (not very interesting/clean but I accidentally found evidence of the Prime Number Theorem)
